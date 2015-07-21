@@ -1,0 +1,37 @@
+- [简单工厂模式](simple-factory-pattern.md)
+ - [工厂三兄弟之简单工厂模式（一）：图表库的设计](simple-one.md)
+ - [工厂三兄弟之简单工厂模式（二）：简单工厂模式概述](simple-two.md)
+ - [工厂三兄弟之简单工厂模式（三）：图表库的简单工厂模式解决方案](simple-three.md)
+ - [工厂三兄弟之简单工厂模式（四）：图表库解决方案的改进，简单工厂模式的简化，简单工厂模式总结](simple-four.md)
+ 
+- [工厂方法模式](factory-method-pattern.md)
+ - [工厂三兄弟之工厂方法模式（一）：日志记录器的设计](factory-one.md)
+ - [工厂三兄弟之工厂方法模式（二）：工厂方法模式概述](factory-two.md)
+ - [工厂三兄弟之工厂方法模式（三）：日志记录器的工厂方法模式解决方案，反射与配置文件](factory-three.md)
+ - [工厂三兄弟之工厂方法模式（四）：重载的工厂方法，工厂方法的隐藏，工厂方法模式总结](factory-four.md)
+ 
+- [抽象工厂模式](abstract-factory-pattern.md)
+ - [工厂三兄弟之抽象工厂模式（一）：界面皮肤库的初始设计](abstract-one.md)
+ - [工厂三兄弟之抽象工厂模式（二）：产品等级结构与产品族](abstract-two.md)
+ - [工厂三兄弟之抽象工厂模式（三）：抽象工厂模式概述](abstract-three.md)
+ - [工厂三兄弟之抽象工厂模式（四）：界面皮肤库的抽象工厂模式解决方案](abstract-four.md)
+ - [工厂三兄弟之抽象工厂模式（五）：“开闭原则”的倾斜性，抽象工厂模式总结](abstract-five.md)
+ 
+- [单例模式](singleton-pattern.md)
+ - [确保对象的唯一性——单例模式 （一）：单例模式的动机，单例模式概述](singleton-one.md)
+ - [确保对象的唯一性——单例模式 （二）：负载均衡器的设计与实现](singleton-two.md)
+ - [确保对象的唯一性——单例模式 （三）：饿汉式单例与懒汉式单例的讨论](singleton-three.md)
+ - [确保对象的唯一性——单例模式 （四）：一种更好的单例实现方法（静态内部类）](singleton-four.md)
+ - [确保对象的唯一性——单例模式 （五）：单例模式总结](singleton-five.md)
+ 
+- [原型模式](prototype-pattern.md)
+ - [对象的克隆——原型模式（一）：大同小异的工作周报，原型模式概述](prototype-one.md)
+ - [对象的克隆——原型模式（二）：工作周报的原型模式解决方案](prototype-two.md)
+ - [对象的克隆——原型模式（三）：带附件的周报【浅克隆，深克隆】](prototype-three.md)
+ - [对象的克隆——原型模式（四）：原型管理器的引入和实现，原型模式总结](prototype-four.md)
+ 
+- [建造者模式]builder-pattern.md)
+ - [复杂对象的组装与创建——建造者模式（一）：游戏角色设计，建造者模式概述](builder-one.md)
+ - [复杂对象的组装与创建——建造者模式（二）：游戏角色设计的建造者模式解决方案](builder-two.md)
+ - [复杂对象的组装与创建——建造者模式（三）：关于Director的进一步讨论，建造者模式总结](builder-three.md)
+  
