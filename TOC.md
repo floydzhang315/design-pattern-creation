@@ -30,8 +30,8 @@
  - [对象的克隆——原型模式（三）：带附件的周报【浅克隆，深克隆】](prototype-three.md)
  - [对象的克隆——原型模式（四）：原型管理器的引入和实现，原型模式总结](prototype-four.md)
  
-- [建造者模式]builder-pattern.md)
+- [建造者模式](builder-pattern.md)
  - [复杂对象的组装与创建——建造者模式（一）：游戏角色设计，建造者模式概述](builder-one.md)
  - [复杂对象的组装与创建——建造者模式（二）：游戏角色设计的建造者模式解决方案](builder-two.md)
- - [复杂对象的组装与创建——建造者模式（三）：关于Director的进一步讨论，建造者模式总结](builder-three.md)
+ - [复杂对象的组装与创建——建造者模式（三）：关于 Director 的进一步讨论，建造者模式总结](builder-three.md)
   
